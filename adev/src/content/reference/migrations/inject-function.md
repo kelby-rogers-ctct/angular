@@ -8,7 +8,7 @@ Run the schematic using the following command:
 
 <docs-code language="shell">
 
-ng generate @angular/core:inject
+ng generate @angular/core:inject-migration
 
 </docs-code>
 
